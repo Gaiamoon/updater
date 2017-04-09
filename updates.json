@@ -6,8 +6,8 @@
     "readme": "Second version"
   },
   "win32-x64-prod": {
-    "update": "https://github.com/megahertz/electron-simple-updater/releases/download/example-win32-x64-prod-v0.0.2",
-    "version": "0.0.2",
+    "update": "https://mega.nz/#!E7oDjBgB",
+    "version": "2.2.5",
     "platform": "win32",
     "readme": "Second version"
   },
